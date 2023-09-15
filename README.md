@@ -1,7 +1,21 @@
-# Tauri + Vanilla TS
+# Algoritmo Congruencial Multiplicativo
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Typescript.
+This app could be used to generate pseudorandom numbers.
+## Installation
+### Dependencies
+- [Tauri](https://tauri.studio/)
+- [Vite](https://vitejs.dev/)
+- [Chart.js](https://www.chartjs.org/)
+- [Rust](https://www.rust-lang.org/)
+- [pnpm](https://pnpm.js.org/)
 
-## Recommended IDE Setup
+### Steps
+- Install [Tauri](https://tauri.studio/)
+- Install [Vite](https://vitejs.dev/)
+- Install [Chart.js](https://www.chartjs.org/)
+- Install [Rust](https://www.rust-lang.org/)
+- Install [pnpm](https://pnpm.js.org/)
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+- Execute `pnpm tauri dev`
+
+- I use Arch btw
